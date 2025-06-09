@@ -4,4 +4,8 @@
 A [Sim Hub](https://www.simhubdash.com/) dashboard for iRacing
 
 
-
+# Tested cars
+IndyCar IR-18
+Super Formula SF-23
+Super Formula Lights 324
+Dallara Formula 4
