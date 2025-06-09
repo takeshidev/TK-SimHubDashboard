@@ -1,4 +1,5 @@
-![SimHub02](https://github.com/user-attachments/assets/47c88556-fd3b-41c7-9dae-882e679f5450)
+![SimHub02](![Screenshot_20250608_225808_SimHub](https://github.com/user-attachments/assets/87bd095e-d65d-4298-9248-ee4da99b4012)
+)
 
 # TK-SimHubDashboard
 A [Sim Hub](https://www.simhubdash.com/) dashboard for iRacing
